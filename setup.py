@@ -7,8 +7,8 @@ setup(
     package_dir={"flow": "src"},
     packages=["flow"],
     install_requires=[
-        'requests>=2.2.1',
-        'semantic-version==2.6.0',
+        "requests>=2.2.1",
+        "semantic-version==2.6.0",
     ],
     keywords=["spideroak", "flow", "semaphor"],
     author="Lucas Manuel Rodriguez",
